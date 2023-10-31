@@ -6,7 +6,7 @@ package perpusgui;
 
 /**
  *
- * @author lenovo
+ * @author ihoihohi
  */
 public class InputDataBuku extends javax.swing.JFrame {
 
